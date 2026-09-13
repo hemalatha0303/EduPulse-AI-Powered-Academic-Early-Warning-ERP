@@ -2,6 +2,7 @@
 
 College ERP with role-based portals (**Admin**, **HOD**, **Faculty**, **Student**), attendance, fees, hostel, library, timetables, notifications, and optional **AI-assisted** academic risk hints for faculty.
 
+**Live Demo:** [https://127.0.0.1:5500/FrontEnd/index.html](https://drive.google.com/file/d/1zF_Bd3NH1zBzeNKyvBXieh8iRh8poTfK/view?usp=sharing)
 **Repository:** [github.com/hemalatha0303/erp-system](https://github.com/hemalatha0303/erp-system)
 
 ## Stack
